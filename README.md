@@ -93,3 +93,14 @@ Hello! I'm **Anil Varikala**, a Computer Science undergraduate at **SNIST**, pas
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Anilvarikala&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 🎖 Certifications:
+
+- 🏅 **LeetCode:** 50/100 Day Badges, 430+ Problems Solved, Contest Rating: 1484  
+- 🤖 **AI Hackathon:** Participated in Finale - DrThankyou website
+- 🐍 **IIT Roorkee:** Python Merit-Based Course (Scored 76%)  
+- 🎯 **Geekweek:** Top-10 Performer at College Level  
+- ☕ **DSA in Java:** Completed via Apna College  
+- 🔍 **HackerRank:** Problem Solving (Intermediate Certified)
