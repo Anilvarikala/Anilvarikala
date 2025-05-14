@@ -56,7 +56,6 @@ Hello! I'm **Anil Varikala**, a Computer Science undergraduate at **SNIST**, pas
 - Built using React.js and deployed via Vercel.
 
 ---
-
 # 💻 Tech Stack:
 
 <p align="center">
@@ -69,6 +68,8 @@ Hello! I'm **Anil Varikala**, a Computer Science undergraduate at **SNIST**, pas
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -77,8 +78,6 @@ Hello! I'm **Anil Varikala**, a Computer Science undergraduate at **SNIST**, pas
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 </p>
-
----
 
 ## 🏆 GitHub Trophies
 
